@@ -28,3 +28,7 @@
 
 - Ссылка на ТЗ: https://docs.google.com/spreadsheets/d/1ZzWxkHvCxw5NwI8CR8FOsHDRzIvAOgFN/edit?usp=sharing&ouid=106675065496451028475&rtpof=true&sd=true
 - Ссылка на дашборд: https://superset.bi-analysts.education-services.ru/superset/dashboard/p/VxG7lAJbm45/
+
+## Вывод
+
+Дашборд объединил 25 визуализаций по продажам, пользователям и качеству сервиса. Позволяет отслеживать GMV, конверсию, удержание (Retention, LTV, ARPU) и операционно управлять ассортиментом через топ‑категории и статусы заказов. Интерактивные фильтры по датам, категориям и рейтингам дают возможность самостоятельно исследовать причины изменений ключевых метрик.
